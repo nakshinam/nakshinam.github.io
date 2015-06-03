@@ -37,16 +37,16 @@ a {
   }
   
   
-  .center{
+  /*.center{
   position: absolute;
-  /*top: 50%;
+  top: 50%;
   transform: translateY(-50%);
   margin-right:50%;
-  margin-left:50%;*/
+  margin-left:50%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
+}*/
 
 @media screen and (min-width: 64em) {
   .btn {
